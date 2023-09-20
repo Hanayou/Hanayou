@@ -6,7 +6,7 @@ Traditional background in systems and game development (particularly Unreal Engi
 
 **About Me**
 - 🤖 I'm currently working on process automation solutions
-- 📚 I'm currently learning on Web Development
+- 📚 I'm currently learning Web Development
 - 🤝 I'm looking to collaborate on or contribute to web/game development projects.
 
 ### 🌍 Languages
@@ -20,9 +20,9 @@ Traditional background in systems and game development (particularly Unreal Engi
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 
 #### 🛠️ Technologies
 Web/App Dev | Game Dev | Version Control | Databases
