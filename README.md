@@ -5,8 +5,8 @@ I'm Sam (Hanayou) - a generalist, hobbyist developer. Northumbria University BSc
 Traditional background in systems and game development (particularly Unreal Engine and C++), currently looking to expand into web and application development.
 
 **About Me**
-- 🤖 I'm currently working on process automation solutions
-- 📚 I'm currently learning Web Development
+- 🤖 I'm currently working on process automation solutions and Web Development
+- 📚 I'm currently learning Game Development
 - 🤝 I'm looking to collaborate on or contribute to web/game development projects.
 
 ### 🌍 Languages
