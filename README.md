@@ -4,16 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm Sam (Hanayou) - a generalist, hobbyist developer. Northumbria University BSc Comp Sci graduate. Traditional background in web and game development.
+I'm Sam (Hanayou) - A professional software developer. Northumbria University BSc Comp Sci graduate. Traditional background in web and game development.
 
 * 🌍  I'm based in Japan
 * 🖥️  See my portfolio at [hanayou.dev](http://hanayou.dev)
 * 🚀  I'm currently working on [Project Brotherhood](http://#)
 * 🧠  I'm learning Svelte 5 / SvelteKit
 * 🤝  I'm open to collaborating on interesting projects
-
-<a href="https://www.github.com/hanayou" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hanayou?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
