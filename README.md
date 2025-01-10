@@ -1,10 +1,10 @@
-Hi! My name is Sam
+Hi! I'm Sam
 ===========================================================================================================================
 
 Software Engineer
 -----------------
 
-I'm Sam (Hanayou) - A professional software developer. Northumbria University BSc Comp Sci graduate. Traditional background in web and game development.
+Professional software developer. Northumbria University BSc Comp Sci graduate. Traditional background in web and game development.
 
 * 🌍  I'm based in Japan
 * 🖥️  See my portfolio at [hanayou.dev](http://hanayou.dev)
